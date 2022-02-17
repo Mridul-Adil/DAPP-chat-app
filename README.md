@@ -1,9 +1,9 @@
-# GUN Chat Dapp Demo
+# DAPP Chat app 
 
-A decentralized chat app built with [GUN](https://gun.eco/). 
-
-- Try the [Live Demo](https://gun-chat-dapp.web.app/)
-- Watch the [Chat Dapp Video](https://youtu.be/J5x3OMXjgMc)
+A decentralized web application using Web3 concept with data distributed across the userbase
+Concept: Web3
+Frontend: Svelte
+Library: Gun.js
 
 ```
 git clone <this-repo>
